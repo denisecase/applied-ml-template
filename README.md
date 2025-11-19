@@ -29,6 +29,10 @@ Each project will be completed in its own folder.
   - ml01.py - working script with just the code
   - README.md - instructions - modify this to present your lab project
 
+## .vscode/ folder (DELETE if needed)
+
+If you have troubles with files in the .vscode/ folder, you may delete this folder or modify the contents as needed. 
+Share in discussions what is helpful - and what causes issues. 
 ---
 
 ## WORKFLOW 1. Set Up Machine
