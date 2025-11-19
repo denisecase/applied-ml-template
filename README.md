@@ -31,8 +31,9 @@ Each project will be completed in its own folder.
 
 ## .vscode/ folder (DELETE if needed)
 
-If you have troubles with files in the .vscode/ folder, you may delete this folder or modify the contents as needed. 
-Share in discussions what is helpful - and what causes issues. 
+- If you have troubles with files in the .vscode/ folder, you may delete this folder or modify the contents as needed. 
+- Share in discussions what contents are helpful - and if any cause issues. 
+
 ---
 
 ## WORKFLOW 1. Set Up Machine
